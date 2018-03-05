@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ADA.iml" filepath="$PROJECT_DIR$/.idea/modules/ADA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ADA_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ADA_main.iml" group="ADA" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ADA_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ADA_test.iml" group="ADA" />
+    </modules>
+  </component>
+</project>
